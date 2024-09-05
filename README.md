@@ -53,9 +53,9 @@ The application is deployed at: [ReactIQ Live](https://reactiq.vercel.app)
 #### Cloning and Running the Application Locally
 
 1. Clone the project into your local machine:
-   ```bash
-   git clone https://github.com/Hardik33/react-IQ.git
-   ```
+```bash
+git clone https://github.com/Hardik33/react-IQ.git
+```
    
 2. Navigate to the project directory:
 ```bash
